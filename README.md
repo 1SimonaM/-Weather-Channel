@@ -1,3 +1,3 @@
 # -Weather-Channel
 
-Thi is tjust a demo. README.md under construction.
+This is just a demo. README.md under construction.
