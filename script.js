@@ -39,7 +39,7 @@ function appendToHistory(search) {
     return;
   }
   searchHistory.push(search);
-
+// we used local storage to store the weather data from wether forcast Api. 
   localStorage.setItem("search-history", JSON.stringify(searchHistory));
   renderSearchHistory();
 }
