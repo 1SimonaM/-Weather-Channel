@@ -6,6 +6,12 @@ To use the API, developers need to apply for an API key from OpenWeatherMap. Onc
 
 The project also used LocalStorage to store any persistent data. Developers will need to create a variable to store the API key and construct the query URL using string concatenation. They can then use the Fetch API to make the API call and retrieve weather data based on user input.
 
+## Links 
+
+
+## Screenshots
+
+
 ## Contributing
 
 We welcome pull requests. Before making any significant changes, please open an issue to explain your requests.
