@@ -7,10 +7,14 @@ To use the API, developers need to apply for an API key from OpenWeatherMap. Onc
 The project also used LocalStorage to store any persistent data. Developers will need to create a variable to store the API key and construct the query URL using string concatenation. They can then use the Fetch API to make the API call and retrieve weather data based on user input.
 
 ## Links 
+https://1simonam.github.io/365-Weather-Forecast/
 
+https://github.com/1SimonaM/365-Weather-Forecast
 
 ## Screenshots
+https://github.com/1SimonaM/365-Weather-Forecast/blob/main/assets/Miami%20FL.png
 
+https://github.com/1SimonaM/365-Weather-Forecast/blob/main/assets/NY.png
 
 ## Contributing
 
